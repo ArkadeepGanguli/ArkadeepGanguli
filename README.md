@@ -1,4 +1,5 @@
-## Hi there 👋
+![](https://leetcard.jacoblin.cool/ArkadeepGanguli?ext=heatmap&theme=unicorn&font=PT_Mono)
+<!--## Hi there 👋
 
 <!--
 **ArkadeepGanguli/ArkadeepGanguli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
